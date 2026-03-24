@@ -1,4 +1,4 @@
-# 🌐 Projet Infrastructure Réseau — TechSolutions SARL
+#  Projet Infrastructure Réseau — TechSolutions SARL
 
 ## 📋 Description
 Déploiement d'une infrastructure réseau multiservice complète 
@@ -25,18 +25,18 @@ ingénieure à ESPRIT.
 | NFS | Partage de fichiers |
 | Prometheus + Grafana | Monitoring |
 
-## 📁 Services déployés
-- ✅ Serveur Web Apache (HTTP/HTTPS)
-- ✅ Base de données MySQL avec accès distant sécurisé
-- ✅ Partage de fichiers NFS
-- ✅ Supervision Prometheus + Grafana
+##  Services déployés
+-  Serveur Web Apache (HTTP/HTTPS)
+-  Base de données MySQL avec accès distant sécurisé
+-  Partage de fichiers NFS
+-  Supervision Prometheus + Grafana
 
 ## 🔐 Sécurité
 - Tunnels VPN IPsec entre tous les routeurs du backbone
 - Chiffrement AES-256 + SHA-256
 - Clés pré-partagées ISAKMP
 
-## 👥 Réalisé par
+##  Réalisé par
 Emna Bahar, Yosr Ben Hamouda, Sarra Ben Boubaker, 
 Azer Aissaoui, Jihed Ramedi
 
